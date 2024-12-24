@@ -6,10 +6,10 @@ footer: false
 head:
   - - meta
     - property: 'og:image'
-      content: /unicosm-doc/UnicosmLogo.png      
+      content: /UnicosmLogo.png      
   - - meta      
     - property: 'twitter:image'
-      content: /unicosm-doc/UnicosmLogo.png      
+      content: /UnicosmLogo.png      
   - - meta
     - property: 'twitter:card'
       content: summary_large_image
