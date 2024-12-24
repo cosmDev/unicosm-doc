@@ -12,7 +12,7 @@ head:
       content: https://cosmdev.github.io/unicosm-doc/UnicosmLogo.png     
   - - meta
     - property: 'twitter:card'
-      content: summary_large_image
+      content: summary
   - - meta
     - property: 'twitter:title'
       content: Unicosm
