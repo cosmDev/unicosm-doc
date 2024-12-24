@@ -15,7 +15,7 @@ head:
       content: summary
   - - meta
     - property: 'twitter:title'
-      content: Unicosm
+      content: Unicosm - Doc
   - - meta
     - property: 'twitter:description'
       content: Link your unity games to cosmos blockchains.
