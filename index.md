@@ -6,7 +6,7 @@ footer: false
 head:
   - - meta
     - property: 'og:image'
-      content: /UnicosmLogo.png
+      content: /unicosm-doc/UnicosmLogo.png
 
 hero:
   name: "Unicosm"
