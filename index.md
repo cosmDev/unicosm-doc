@@ -6,10 +6,10 @@ footer: false
 head:
   - - meta
     - property: 'og:image'
-      content: /UnicosmLogo.png      
+      content: https://cosmdev.github.io/unicosm-doc/UnicosmLogo.png    
   - - meta      
     - property: 'twitter:image'
-      content: /UnicosmLogo.png      
+      content: https://cosmdev.github.io/unicosm-doc/UnicosmLogo.png     
   - - meta
     - property: 'twitter:card'
       content: summary_large_image
