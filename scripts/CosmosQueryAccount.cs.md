@@ -8,6 +8,10 @@ aside: false
  
 # 🟢 CosmosQueryAccount.cs
 
+
+![An image](img/CosmosQueryAccount.png) 
+ 
+
 ::: info {icon-type=info}
 The ```CosmosQueryAccount``` script allows you to get data onChain for one address.  
  
