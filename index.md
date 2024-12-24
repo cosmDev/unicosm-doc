@@ -6,8 +6,11 @@ footer: false
 head:
   - - meta
     - property: 'og:image'
-      content: /unicosm-doc/UnicosmLogo.png
-
+      content: /unicosm-doc/UnicosmLogo.png      
+    - property: 'twitter:image'
+      content: /unicosm-doc/UnicosmLogo.png      
+    - property: 'twitter:card'
+      content: summary_large_image
 hero:
   name: "Unicosm"
   image:
