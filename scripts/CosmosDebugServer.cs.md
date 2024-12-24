@@ -9,6 +9,8 @@ aside: false
  
 # CosmosDebugServer.cs
 
+![An image](img/CosmosDebugServer.png)
+
 The ```CosmosDebugServer``` script allows you to debug the chain configuration you want to use.  
  
 
