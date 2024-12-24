@@ -13,11 +13,18 @@ head:
   - - meta
     - property: 'twitter:card'
       content: summary_large_image
+  - - meta
+    - property: 'twitter:title'
+      content: Unicosm
+  - - meta
+    - property: 'twitter:description'
+      content: Link your unity games to cosmos blockchains.
+
 hero:
   name: "Unicosm"
   image:
     src: /UnicosmLogo.png
-    alt: VitePress
+    alt: Unicosm
   text: Link your unity games to cosmos blockchains. 
   actions:
     - theme: brand
