@@ -7,7 +7,7 @@ import { withMermaid } from "vitepress-plugin-mermaid";
 export default withMermaid({
   base: "/unicosm-doc/",
   title: "Unicosm",
-  description: "A VitePress Site",
+  description: "Link your unity games to cosmos blockchains.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/UnicosmLogo.png',
