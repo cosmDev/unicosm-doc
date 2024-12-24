@@ -10,7 +10,7 @@ export default withMermaid({
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/img/UnicosmLogo.png',
+    logo: '/UnicosmLogo.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Documentation', link: '/scripts/CosmosChainConfig.cs' },
