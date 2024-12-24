@@ -5,7 +5,7 @@ import { withMermaid } from "vitepress-plugin-mermaid";
 // https://vitepress.dev/reference/site-config
 // export default defineConfig({
 export default withMermaid({
-  base: process.env.NODE_ENV === "production" ? "/unicosm-doc/" : "/",
+  base: "/unicosm-doc/",
   title: "Unicosm",
   description: "A VitePress Site",
   themeConfig: {
