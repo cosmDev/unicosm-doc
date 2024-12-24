@@ -3,6 +3,11 @@
 layout: home
 footer: false
 
+head:
+  - - meta
+    - property: 'og:image'
+      content: /UnicosmLogo.png
+
 hero:
   name: "Unicosm"
   image:
