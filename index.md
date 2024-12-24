@@ -6,7 +6,7 @@ footer: true
 hero:
   name: "Unicosm"
   image:
-    src: img/UnicosmLogo.png
+    src: quickstart/img/UnicosmLogo.png
     alt: VitePress
   text: Link your unity games to cosmos blockchains. 
   actions:
@@ -22,15 +22,15 @@ hero:
 
 features:
   - icon:
-      src: img/cosmos-atom-logo.png
+      src: quickstart/img/cosmos-atom-logo.png
     title: Cosmos sdk compatibility
     details: This package supports a wide functionality of the cosmos sdk
   - icon:
-      src: img/cosmwasm.png
+      src: quickstart/img/cosmwasm.png
     title: CosmWasm compatibility
     details: Unicosm supports a query/execute functionality of cosmwasm
   - icon:
-      src: img/keplr.svg
+      src: quickstart/img/keplr.svg
     title: Offline signer compatibility
     details: "Use the signer you want!<br /> keplr, cosmostation or leap"
     
