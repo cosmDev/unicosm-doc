@@ -5,7 +5,7 @@ aside: true
  
 ---
  
- [![](unicosmbanner.png){ width=800px }](unicosmbanner.png)
+ [![](img/unicosmbanner.png){ width=800px }](unicosmbanner.png)
  
 
 
