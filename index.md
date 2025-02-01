@@ -31,11 +31,12 @@ hero:
       text: Quick start
       link: /quickstart     
     - theme: alt
+      text: Demo
+      link: https://cosmdev.github.io/unicosm-demo/
+    - theme: alt
       text: Tutorials
       link: /tutorials/starter-pack.html
-    - theme: alt
-      text: Documentation
-      link: /scripts/CosmosChainConfig.cs
+
 
 features:
   - icon:
