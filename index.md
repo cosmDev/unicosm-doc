@@ -28,11 +28,11 @@ hero:
   text: Link your unity games to cosmos blockchains. 
   actions:
     - theme: brand
-      text: Quick start
-      link: /quickstart     
-    - theme: alt
       text: Demo
       link: https://cosmdev.github.io/unicosm-demo/
+    - theme: alt
+      text: Quick start
+      link: /quickstart     
     - theme: alt
       text: Tutorials
       link: /tutorials/starter-pack.html
