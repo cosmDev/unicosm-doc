@@ -9,19 +9,11 @@ export default withMermaid({
   title: "Unicosm",
   description: "Link your unity games to cosmos blockchains.",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     logo: '/UnicosmLogo.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Documentation', link: '/scripts/CosmosChainConfig.cs' },
-      //{ text: 'Scripts', link: '/scripts/CosmosChainConfig.cs' },
-      //{ text: 'Team', link: '/team' },
-      /*{
-        text: 'Version 1.0.1',
-        items: [
-          { text: '1.0.1', link: '/quickstart/' } 
-        ]
-      }*/
+      { text: 'Demonstration', link: 'https://cosmdev.github.io/unicosm-demo/' },
     ],
     footer: {
       //message: 'Released under the <a href="https://github.com/vuejs/vitepress/blob/main/LICENSE">MIT License</a>.',
@@ -98,7 +90,7 @@ export default withMermaid({
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/cosmDev' },
-      //{ icon: 'twitter', link: '...' },
+      { icon: 'twitter', link: 'https://x.com/cosmdev' },
     ]
   },
   mermaid:{
