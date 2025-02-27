@@ -11,7 +11,7 @@ aside: true
 
 To install Unicosm, follow these steps:
 
-1. Donwload the unitypackage [here](https://github.com/cosmDev/Unicosm/releases/download/1.0.1/Unicosm-1.0.1.unitypackage)
+1. Donwload the unitypackage (Soon!)
 2. Create your Unity project and import the unitypackage from Asset folder
 
 ![An image](img/install1.png)
