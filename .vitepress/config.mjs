@@ -58,8 +58,7 @@ export default withMermaid({
         link: '/advanced-tutorials/ceate-your-smartcontract',
         collapsed: true,
         items: [
-          { text: '🟡 Create your smartcontract', link: '/advanced-tutorials/ceate-your-smartcontract' },
-          { text: '🟡 Smartcontract logic', link: '' } 
+          { text: '🟢 Create your smartcontract', link: '/advanced-tutorials/ceate-your-smartcontract' }, 
         ]
       },
       {
@@ -69,10 +68,10 @@ export default withMermaid({
         items: [
           { text: '🟢 CosmosChainConfig.cs', link: '/scripts/CosmosChainConfig.cs' },
           { text: '🟢 CosmosSignerConnect.cs', link: '/scripts/CosmosSignerConnect.cs' },
-          { text: '🟢 CosmosSignArbitrary.cs', link: '/scripts/CosmosSignArbitrary.cs' },
-          { text: '🟢 CosmosQueryAccount.cs', link: '/scripts/CosmosQueryAccount.cs' },
+          { text: '🟢 CosmosSignArbitrary.cs', link: '/scripts/CosmosSignArbitrary.cs' },          
           { text: '🟢 CosmosSendToken.cs', link: '/scripts/CosmosSendToken.cs' },
-          { text: '🟢 CosmosDebugServer.cs', link: '/scripts/CosmosDebugServer.cs.md' }
+          { text: '🟢 CosmosQueryAccount.cs', link: '/scripts/CosmosQueryAccount.cs' },
+          // { text: '🟢 CosmosDebugServer.cs', link: '/scripts/CosmosDebugServer.cs.md' }
         ]
       },
       {

@@ -24,12 +24,10 @@ public class TestScript : MonoBehaviour
     public CosmosDev.UniCosm.CosmosChainConfig chainConfig;    
     // Start is called before the first frame update
     void Start() {
-        Debug.Log(this.chainConfig._ChainConfiguration.chainName);
-        Debug.Log(this.chainConfig._ChainConfiguration.chainId);
-        Debug.Log(this.chainConfig._ChainConfiguration.chainDenom);
+        Debug.Log(this.chainConfig.chainName);
+        Debug.Log(this.chainConfig.chainId);
+        Debug.Log(this.chainConfig.chainDenom);
     }
-    // Update is called once per frame
-    void Update() {}
 }
 
 ```

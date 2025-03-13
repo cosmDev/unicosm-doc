@@ -33,18 +33,6 @@ Add the object containing the script [CosmosChainConfig.cs](/scripts/CosmosChain
 Add the button you created to your scene to interact with the signer
  
 
-## Debug Configuration
-
-Configuration for debug mode
-
-### Debug mode  <Badge type="tip" text="Boolean" />  
-
-Add the button you created to your scene to interact with the signer
-
-### Debug script <Badge type="tip" text="Object" /> 
-
-Add the button you created to your scene to interact with the signer
-
 </template>
 <template #right>
 

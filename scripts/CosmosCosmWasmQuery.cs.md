@@ -56,8 +56,8 @@ The sub query to send
 ```json
 {
   players_list: {
-    limite: 10,
-    start_after: 2
+    limite: 100,
+    start_after: 1
   }
 }
 
