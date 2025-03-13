@@ -10,12 +10,4 @@ aside: true
 > [!NOTE]
 > Soon update!
 
-## Create your project
- 
-## Configure your project
-
-## Add uniCosm
-
-## Export and test
-
  
