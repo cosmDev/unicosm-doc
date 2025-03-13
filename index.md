@@ -29,7 +29,7 @@ hero:
   actions:
     - theme: brand
       text: Demonstration
-      link: https://cosmdev.github.io/unicosm-demo/
+      link: /demo/
     - theme: alt
       text: Quick start
       link: /quickstart     

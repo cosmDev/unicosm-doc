@@ -13,7 +13,7 @@ export default withMermaid({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Documentation', link: '/scripts/CosmosChainConfig.cs' },
-      { text: 'Demonstration', link: 'https://cosmdev.github.io/unicosm-demo/' },
+      { text: 'Demonstration', link: '/demo/' },
     ],
     footer: {
       //message: 'Released under the <a href="https://github.com/vuejs/vitepress/blob/main/LICENSE">MIT License</a>.',
