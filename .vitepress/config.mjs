@@ -71,7 +71,7 @@ export default withMermaid({
           { text: '🟢 CosmosSignerConnect.cs', link: '/scripts/CosmosSignerConnect.cs' },
           { text: '🟢 CosmosSignArbitrary.cs', link: '/scripts/CosmosSignArbitrary.cs' },          
           { text: '🟢 CosmosSendToken.cs', link: '/scripts/CosmosSendToken.cs' },
-          { text: '🟢 CosmosQueryAccount.cs', link: '/scripts/CosmosQueryAccount.cs' },
+          { text: '🟡 CosmosQueryAccount.cs', link: '/scripts/CosmosQueryAccount.cs' },
           // { text: '🟢 CosmosDebugServer.cs', link: '/scripts/CosmosDebugServer.cs.md' }
         ]
       },

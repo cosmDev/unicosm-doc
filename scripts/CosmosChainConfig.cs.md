@@ -8,13 +8,8 @@ aside: false
 </script>
 
 
- 
- 
 # 🟢 CosmosChainConfig.cs
-
-![An image](img/ChainConfig.png)
-
-
+ 
 
 ::: info {icon-type=info}
 The CosmosChainConfig script allows you to define the chain configuration you want to use.  

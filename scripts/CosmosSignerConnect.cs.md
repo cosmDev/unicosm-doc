@@ -9,7 +9,6 @@ aside: false
  
 # CosmosSignerConnect.cs
 
-![An image](img/CosmosSignerConnect.png)
 
 The ```CosmosSignerConnect``` script allows you to create a connection with the offlisigner.
 

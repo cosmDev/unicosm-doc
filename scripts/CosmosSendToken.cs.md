@@ -9,8 +9,6 @@ aside: false
  
 # CosmosSendToken.cs
 
-![An image](img/SendToken.png)
-
 The ```CosmosSendToken``` script allows you to send token on the chain configuration you want to use. 
  
 <DividePage :top="63">

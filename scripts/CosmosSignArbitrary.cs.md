@@ -9,8 +9,6 @@ aside: false
  
 # CosmosSignArbitrary.cs
 
-![An image](img/CosmosSignArbitrary.png) 
-
 The ```CosmosSignArbitrary``` script allows you to define the chain configuration you want to use.
 You will need to assign this configuration on each action script of our package
 

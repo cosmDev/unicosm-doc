@@ -6,13 +6,13 @@ aside: false
   import {DividePage} from 'vitepress-theme-api';
 </script>
  
-# 🟢 CosmosQueryAccount.cs
-
-
-![An image](img/CosmosQueryAccount.png) 
+# 🟡 CosmosQueryAccount.cs
+ 
  
 
 ::: info {icon-type=info}
+Soon!
+
 The ```CosmosQueryAccount``` script allows you to get data onChain for one address.  
  
 :::
