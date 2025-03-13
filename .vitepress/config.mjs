@@ -8,7 +8,7 @@ export default withMermaid({
   base: "/unicosm-doc/",
   title: "Unicosm",
   description: "Link your unity games to cosmos blockchains.",
-  head: [['link', { rel: 'icon', href: '/base/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/unicosm-doc/favicon.ico' }]],
   themeConfig: {
     logo: '/UnicosmLogo.png',
     nav: [
