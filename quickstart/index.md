@@ -18,12 +18,14 @@ What is Unicosm?
 Unicosm is a package that allows you to connect your unity games to the cosmos SDK blockchain ecosystem
 
 With Unicosmos you will have the possibility to connect your players from the preferred offline signing client!  
+
 Signer available:
-
-  * Keplr wallet [Link](https://www.keplr.app/get)
-  * Cosmostation [Link](https://www.cosmostation.io/products/cosmostation_extension)
-  * Leap wallet [Link](https://www.leapwallet.io/extension) 
-
+| Signer App    | Info |
+| -------- | ------- |
+| Keplr wallet  | [Link](https://www.keplr.app/get)    |
+| Cosmostation | [Link](https://www.cosmostation.io/products/cosmostation_extension) |
+| Leap wallet    | [Link](https://www.leapwallet.io/extension) |
+ 
 We have created a whole series of tools that allow you to interact from any chain of the cosmos ecosystem.
 
 ![An image](img/mainScreen.png)
